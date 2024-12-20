@@ -5,4 +5,4 @@ Input: folding parameter s, list parameter L, word length n, message length k.
 
 Note that the number of column and rows of the matrix can't succeed 5000.
 
-For now, the underlying field is $$\mathbb{F}_{998244353}$$
+For now, the underlying field is $$\mathbb{F}_{998244353}$$ where 998244353 is a popular prime in programming contest. The generator of the multiplicative group $$\gamma$$ is just $$3$$, which is primitive root of 998244353
