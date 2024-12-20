@@ -1,5 +1,6 @@
 ![063631dbd777241e0dc40dd2dd17d7cb](https://github.com/user-attachments/assets/896eea04-afe5-4667-bc7d-b83018e0c754)
 
+You can directly run the .exe file. If it doesn't work and you need to compile it. Please use -std=c++11
 
 Input: folding parameter s, list parameter L, word length n, message length k.
 
