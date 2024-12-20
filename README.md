@@ -4,7 +4,7 @@ You can directly run the .exe file. If it doesn't work and you need to compile i
 
 Input: folding parameter s, list parameter L, word length n, message length k.
 
-Note that the number of column and rows of the matrix can't succeed 5000.
+Note that the number of column and rows of the matrix can't succeed 5000. Be careful with other boundary limit since the arrays have fixed dimensions.
 
 For now, the underlying field is $$\mathbb{F}_{998244353}$$ where 998244353 is a popular prime in programming contest. The generator of the multiplicative group $$\gamma$$ is just $$3$$, which is a primitive root modulo 998244353. You can change it in the code easily.
 
